@@ -16,25 +16,7 @@
 - user status
 
 
-### App Screenshots
-  
 
-<table>
-  <tr>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen1.png" width=270 height=480></td>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen2.png" width=270 height=480></td>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen3.png" width=270 height=480></td>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen4.png" width=270 height=480></td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen5.png" width=270 height=480></td>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen6.png" width=270 height=480></td>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen7.png" width=270 height=480></td>
-    <td><img src="https://github.com/ahmedelbagory332/full_chat_flutter_app/blob/main/screen%20shots/screen8.png" width=270 height=480></td>
-  </tr>
- </table>
  
  #### Mainfist Permissions
  
